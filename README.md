@@ -8,11 +8,13 @@ $ docker-compose up
 ## Setup 
 
 Fill .env file with your data:
+```
 POSTGRES_LOCAL_PORT=5432
 POSTGRES_HOST=localhost
 POSTGRES_USER=root
 POSTGRES_DB=car_rent
 POSTGRES_PASSWORD=root
+```
 
 ## Test
 
